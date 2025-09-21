@@ -3,7 +3,7 @@
 **FitFusion** is your all-in-one AI-powered fitness companion. Whether you're starting your journey or leveling up, FitFusion is here to guide, track, and motivate you with intuitive tools and personalized insights. Let's get stronger together! 💪  
 
 ---
-
+   
 ## 🚀 **Why Choose FitFusion?**  
 
 ### 🧑‍💻 **Seamless User Management**
